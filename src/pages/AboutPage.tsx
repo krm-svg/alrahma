@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { motion } from "framer-motion";
-import { Target, Eye, Heart, Award, Users, Clock } from "lucide-react";
+import { Target, Eye, Heart } from "lucide-react";
 import { companyInfo } from "@/data/company";
 import Stats from "@/components/Stats";
 import ContactCTA from "@/components/ContactCTA";
